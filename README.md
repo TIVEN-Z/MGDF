@@ -1,4 +1,1 @@
-# MGDF
-MGDF：Multi-Granularity Mural Sketch Detection Network via Dynamic Frequency-Domain Transformation
-
-......
+The code will be open source in the future.
