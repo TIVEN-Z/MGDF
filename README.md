@@ -10,14 +10,14 @@ Below are the detection results for different mural images:
 
 | Mural | Multi-scale Detection |
 |--------|----------|
-| <img src="images/1.jpg" width="250"> | <img src="images/1.gif" width="250"> |
-| <img src="images/2.jpg" width="250"> | <img src="images/2.gif" width="250"> |
-| <img src="images/3.jpg" width="250"> | <img src="images/3.gif" width="250"> |
-| <img src="images/4.jpg" width="250"> | <img src="images/4.gif" width="250"> |
-| <img src="images/5.jpg" width="250"> | <img src="images/5.gif" width="250"> |
-| <img src="images/6.jpg" width="250"> | <img src="images/6.gif" width="250"> |
-| <img src="images/7.png" width="250"> | <img src="images/7.gif" width="250"> |
-| <img src="images/8.png" width="250"> | <img src="images/8.gif" width="250"> |
+| <img src="images/1.jpg" width="300"> | <img src="images/1.gif" width="300"> |
+| <img src="images/2.jpg" width="300"> | <img src="images/2.gif" width="300"> |
+| <img src="images/3.jpg" width="300"> | <img src="images/3.gif" width="300"> |
+| <img src="images/4.jpg" width="300"> | <img src="images/4.gif" width="300"> |
+| <img src="images/5.jpg" width="300"> | <img src="images/5.gif" width="300"> |
+| <img src="images/6.jpg" width="300"> | <img src="images/6.gif" width="300"> |
+| <img src="images/7.png" width="300"> | <img src="images/7.gif" width="300"> |
+| <img src="images/8.png" width="300"> | <img src="images/8.gif" width="300"> |
 
 ### Gradio Interface Demo
 
