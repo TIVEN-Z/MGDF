@@ -10,14 +10,14 @@ Below are the detection results for different mural images:
 
 | Mural | Multi-scale Detection |
 |--------|----------|
-| ![Mural 1](images/1.jpg) | <video width="50%" controls><source src="images/1.mp4" type="video/mp4"></video> |
-| ![Mural 2](images/2.jpg) | <video width="50%" controls><source src="images/2.mp4" type="video/mp4"></video> |
-| ![Mural 3](images/3.jpg) | <video width="50%" controls><source src="images/3.mp4" type="video/mp4"></video> |
-| ![Mural 4](images/4.jpg) | <video width="50%" controls><source src="images/4.mp4" type="video/mp4"></video> |
-| ![Mural 5](images/5.jpg) | <video width="50%" controls><source src="images/5.mp4" type="video/mp4"></video> |
-| ![Mural 6](images/6.jpg) | <video width="50%" controls><source src="images/6.mp4" type="video/mp4"></video> |
-| ![Mural 7](images/7.png) | <video width="50%" controls><source src="images/7.mp4" type="video/mp4"></video> |
-| ![Mural 8](images/8.png) | <video width="50%" controls><source src="images/8.mp4" type="video/mp4"></video> |
+| ![Mural 1](images/1.jpg) | [View Detection Video](images/1.mp4) |
+| ![Mural 2](images/2.jpg) | [View Detection Video](images/2.mp4) |
+| ![Mural 3](images/3.jpg) | [View Detection Video](images/3.mp4) |
+| ![Mural 4](images/4.jpg) | [View Detection Video](images/4.mp4) |
+| ![Mural 5](images/5.jpg) | [View Detection Video](images/5.mp4) |
+| ![Mural 6](images/6.jpg) | [View Detection Video](images/6.mp4) |
+| ![Mural 7](images/7.png) | [View Detection Video](images/7.mp4) |
+| ![Mural 8](images/8.png) | [View Detection Video](images/8.mp4) |
 
 ### Gradio Interface Demo
 
