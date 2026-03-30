@@ -8,7 +8,7 @@ The code will be open source in the June.
 
 Below are the detection results for different mural images:
 
-| Mural | Multi-scale Detection |
+| Mural | Multi-Granularity Detection |
 |--------|----------|
 | <img src="images/1.jpg" width="300"> | <img src="images/1.gif" width="300"> |
 | <img src="images/2.jpg" width="300"> | <img src="images/2.gif" width="300"> |
