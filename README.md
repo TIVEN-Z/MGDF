@@ -2,6 +2,8 @@
 
 The code will be open source in the June.
 
+Online demo: https://huggingface.co/spaces/TIVEN010221/MGDF
+
 ---
 
 ## Detection Results Display
